@@ -8,7 +8,5 @@
 	"sortImports": true,
 	"trailingComma": "es5",
 	"sortTailwindcss": true,
-	"singleAttributePerLine": true,
-	"vueIndentScriptAndStyle": true,
-	"embeddedLanguageFormatting": "auto"
+	"singleAttributePerLine": true
 }
